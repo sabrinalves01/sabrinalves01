@@ -2,7 +2,7 @@
 
 Sou estudante de Engenharia da Computação e apaixonada por tecnologia.
 
-🎓 Atualmente, estou aprimorando meus conhecimentos em desenvolvimento fullsatck, aprendendo HTML, CSS, JavaScript e C#.
+🎓 Atualmente, estou aprimorando meus conhecimentos em desenvolvimento fullstack, aprendendo HTML, CSS, JavaScript e C#.
 
 💻 Além disso, tenho muito interesse em desenvolvimento e design de jogos.
 
